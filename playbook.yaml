@@ -1,0 +1,4 @@
+- import_playbook: dale/acl.yaml
+- import_playbook: dale/ospf.yaml
+- import_playbook: dale/iproute.yaml
+- import_playbook: dale/backup.yaml
